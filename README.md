@@ -1,0 +1,5 @@
+Frontend (JavaScript, HTML, CSS)
+Backend (Flask (Python))
+Database (SQL (PostgreSQL))
+AI (OpenAI API)
+Deployment (Vercel)
